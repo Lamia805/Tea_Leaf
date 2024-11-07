@@ -1,3 +1,5 @@
 # Tea_Leaf Poject
 
-Google Colab
+Software: Google Colab
+
+We collected our own dataset from Uaila Tea Estate in Fatikchari, Chottogram.
